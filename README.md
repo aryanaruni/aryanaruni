@@ -9,6 +9,6 @@
   My Twitter- <a href ="https://twitter.com/aryanaruni">Visit</a><br>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kitarp29&show_icons=true)
-<h4>It ain't much but its honest work</h4>
+![Github stats](https://github-readme-stats.vercel.app/api?username=aryanaruni&show_icons=true)
+
   <hr>
