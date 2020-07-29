@@ -1,7 +1,7 @@
-## Hi, I'm Aryan Aruni 👋
+<img align="right" width="250" src="images/img1.png">  
+# Hi, I'm Aryan Aruni 👋
   I'm beginner in the coding world, who is passionate about coding & learning different languages and wants to become a Software Developer <br>
-  
-  
+
 Some of the languages I really love:
 <ul>
   <li>C-Language</li>
