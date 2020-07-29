@@ -1,5 +1,6 @@
 ## Hi, I'm Aryan Aruni 👋
   I'm beginner in the coding world, who is passionate about coding & learning different languages and wants to become a Software Developer <br>
+  <img 
   
 Some of the languages I really love:
 <ul>
