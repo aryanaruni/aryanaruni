@@ -1,5 +1,5 @@
 <img align="right" width="200" src="images/img1.png">
-<h1><strong>Hi, I'm Aryan Aruni</strong></h1>👋<br>
+<h1><strong>Hi, I'm Aryan Aruni👋</strong></h1><br>
 I'm beginner in the coding world, who is passionate about coding & learning different languages and wants to become a Software Developer <br>
 Some of the languages I really love:
 <ul>
