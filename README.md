@@ -1,5 +1,5 @@
-### Hi, I'm Aryan Aruni 👋
-I'm a software developer who is passionate about coding & learning different languages.<br>
+#### Hi, I'm Aryan Aruni 👋
+  I'm a software developer who is passionate about coding & learning different languages.<br>
 Some of the languages I really love:
 <ul>
   <li>C-Language</li>
