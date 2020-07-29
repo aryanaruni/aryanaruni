@@ -13,7 +13,7 @@ Some of the languages I really love:
 <h3> Find me around the web 🌎:</h3>
   Follow me on Linkedin- <a href="https://www.linkedin.com/in/aryanaruni/">Link</a><br>
   Follow me on Twitter- <a href ="https://twitter.com/aryanaruni">Link</a><br>
-  Follow me onInstagram- <a href ="https://www.instagram.com/lord_._aryan/">Link</a><br>
+  Follow me on fbInstagram- <a href ="https://www.instagram.com/lord_._aryan/">Link</a><br>
 <hr>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aryanaruni&show_icons=true)
