@@ -1,12 +1,6 @@
 ## Hi, I'm Aryan Aruni👋
 I'm beginner in the coding world, who is passionate about coding & learning different languages and wants to become a Software Developer.<br>
-Some of the languages I really love:
-<ul>
-  <li>C-Language</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Java Script</li>
-</ul>
+
 <hr>
 
 <h3> Find me around the web 🌎:</h3>
