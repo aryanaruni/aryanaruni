@@ -1,5 +1,5 @@
 ## Hi, I'm Aryan Aruni👋
-I'm beginner in the coding world, who is passionate about coding & learning different languages and wants to become a Software Developer.<br>
+I'm beginner in the coding world, passionate about coding & learning different languages and building excellent software that improves the lives of those around me..<br>
 
 <hr>
 
