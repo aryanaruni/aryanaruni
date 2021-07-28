@@ -10,6 +10,6 @@ I'm beginner in the coding world, passionate about coding & learning different l
 <hr>
 My Online CV- <a href ="https://aryanaruni.github.io/resume/index.html" target="_blank">Link</a><br>
 <hr>
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryanaruni)
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=aryanaruni&show_icons=true) -->
+[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryanaruni&show_icons=true&theme=graywhite)](https://github.com/aryanaruni/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanaruni&layout=compact&theme=vue)](https://github.com/aryanaruni/github-readme-stats)
  <hr>
