@@ -19,7 +19,3 @@ My Online CV- <a href ="https://aryanaruni.github.io/resume/index.html" target="
   <img height="180em" src="https://github-readme-stats.vercel.app/api?               username=aryanaruni&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=aryanaruni&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </p>                                                                                                                             
-</a>
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryanaruni&show_icons=true&theme=graywhite)](https://github.com/aryanaruni/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanaruni&layout=compact&theme=vue)](https://github.com/aryanaruni/github-readme-stats)
- <hr>
