@@ -8,7 +8,7 @@ I'm beginner in the coding world, passionate about coding & learning different l
   Follow me on Twitter- <a href ="https://twitter.com/aryanaruni" target="_blank">Link</a><br>
   Follow me on Instagram- <a href ="https://www.instagram.com/lord_._aryan/" target="_blank">Link</a><br>
 <hr>
-  Online CV- <a href ="www.aryanaruni.com" target="_blank">Aryan Aruni</a><br>
+  Online CV- <a href ="http://www.aryanaruni.com" target="_blank">Aryan Aruni</a><br>
 <hr>
 
 
